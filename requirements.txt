@@ -1,2 +1,4 @@
 argparse==1.2.1
 wsgiref==0.1.2
+spyne==2.13.1
+requests==2.7.0
